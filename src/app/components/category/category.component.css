@@ -1,0 +1,11 @@
+.text-bold{
+    font-weight: bolder;
+}
+
+.card-title{
+    cursor: pointer;
+}
+
+.modal.show{
+    display: block;
+}
